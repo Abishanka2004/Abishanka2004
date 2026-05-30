@@ -32,4 +32,4 @@ These are some of my recent technical builds. You can find detailed technical su
 ## Connect
 Let's connect and build something impactful.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />](www.linkedin.com/in/abishanka-mondal-96396b1b0)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />](https://www.linkedin.com/in/abishanka-mondal-96396b1b0)
