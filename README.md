@@ -1,9 +1,13 @@
 # Hi, I'm Abishanka 👋
 
-### ML & AI Developer specializing in Computer Vision & LLM Agents
+### Computer Science Engineer (AI/ML) | Machine Learning | Deep Learning | Python
 
 ## About Me
-I build and deploy performance-optimized machine learning models and intelligent systems. Currently focused on real-time computer vision and agentic orchestration of Large Language Models. My core stack includes Python, PyTorch, and SQL. I am currently wrapping up my M.Tech in AI/ML and actively looking for roles where I can build efficient, scalable models—especially when optimizing for hardware and latency constraints.
+I enjoy building machine learning applications that solve practical problems. My projects span computer vision, predictive analytics, agriculture, weather forecasting, and AI-assisted automation.
+
+I have worked with deep learning, machine learning, data analysis, and software development using Python, PyTorch, OpenCV, and modern AI frameworks.
+
+Currently exploring computer vision, LLM applications, and production-ready AI systems.
 
 ## Top Tools & Stack
 I rely heavily on these technologies to build efficient solutions:
@@ -19,14 +23,13 @@ I rely heavily on these technologies to build efficient solutions:
 ## Featured Project Highlights
 These are some of my recent technical builds. You can find detailed technical summaries in their respective repositories:
 
-### [llm-video-editing-agent](https://github.com/Abishanka2004/llm-video-editing-agent)
-**AI Video Editor:** Orchestrated a multi-agent workflow using LangGraph, leveraging Groq’s low-latency LLM for natural language video processing commands (via OpenAI Whisper). Integrates automated FFmpeg editing, delivering high-speed, automated edits from simple user prompts.
-*   *Key Focus:* LLM Agents, Agentic Workflows, FFmpeg Automation, Low-Latency.
+**[india-geo-graphrag](https://github.com/Abishanka2004/india-geo-graphrag)**
+Advanced RAG Architecture: Built a Graph-based Retrieval-Augmented Generation (GraphRAG) pipeline to process, embed, and accurately query complex geospatial data. 
+* *Key Focus:* GraphRAG, LLM Architecture, Information Retrieval, Vector Search.
 
-### [Sign-Language-Detection](https://github.com/Abishanka2004/Sign-Language-Detection)
-**Real-time CV Detection:** Developed a robust computer vision model achieving 94% accuracy in interpreting complex sign language gestures. Optimized the entire pipeline (preprocessing to inference) for low-latency performance, enabling real-time translation for practical accessibility use cases.
-*   *Key Focus:* Real-time Inference, Model Accuracy, Computer Vision, Dataset Optimization.
-
+**[ipl-analytics-dashboard](https://github.com/Abishanka2004/ipl-analytics-dashboard)**
+Interactive Data Visualization: Engineered a dynamic analytics dashboard to process raw sports data and generate real-time visual insights and performance metrics.
+* *Key Focus:* Data Engineering, Streamlit, Data Visualization, Python.
 ---
 
 ## Connect
