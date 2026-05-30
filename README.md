@@ -3,7 +3,7 @@
 ### ML & AI Developer specializing in Computer Vision & LLM Agents
 
 ## About Me
-I build and deploy performance-optimized machine learning models and intelligent systems. Currently focused on real-time computer vision and agentic orchestration of Large Language Models. My core stack includes Python, PyTorch, and deploying on low-latency hardware. I'm passionate about translating complex AI research into robust, production-ready applications.
+I build and deploy performance-optimized machine learning models and intelligent systems. Currently focused on real-time computer vision and agentic orchestration of Large Language Models. My core stack includes Python, PyTorch, and SQL. I am currently wrapping up my M.Tech in AI/ML and actively looking for roles where I can build efficient, scalable models—especially when optimizing for hardware and latency constraints.
 
 ## Top Tools & Stack
 I rely heavily on these technologies to build efficient solutions:
